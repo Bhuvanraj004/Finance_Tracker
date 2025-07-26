@@ -2,19 +2,7 @@
 
 A full-stack web application built using **Node.js**, **React.js**, and **MongoDB** to help users manage income, expenses, and savings with secure user authentication and detailed monthly tracking.
 
-## 📌 Table of Contents
-- [Features](#features)
-- [Tech Stack](#tech-stack)
-- [Installation](#installation)
-- [Environment Variables](#environment-variables)
-- [Folder Structure](#folder-structure)
-- [Usage](#usage)
-- [API Endpoints](#api-endpoints)
-- [Screenshots](#screenshots)
-- [Authors](#authors)
-- [License](#license)
 
----
 
 ## 🚀 Features
 
